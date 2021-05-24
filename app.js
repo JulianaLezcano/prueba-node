@@ -1,4 +1,7 @@
 /*para saber que version tenes es git --version
+-para posicionarme sobre una carpeta especifica cd nombrecarpeta
+-para retrodecer a la carpeta anterior cd..
+-para ver todo lo que tiene la carpeta ls
 repo local: en la compu
 todo en consola:
 para iniciar proyecto  git init .... 
@@ -19,7 +22,12 @@ git config --global user.email 'juliana.v.lezcano@hotmail.com'
 -PARA SUBIR DICHA MODIF DEL REPO LOCAL AL REPO REMOTO git push origin master
 -----EN GITBASH DIRECTO:
 CREAR CARPETA Mkdir nombrecarpeta
+PARA PONERME EN ESA CARPETA cd nombrecarpeta
 CREAR ARCHIVO touche nombrearchivo
+REPO REMOTE:
+-git pull origin master para bajar a nuestro repo local las modificaciones realizadas en la nube por los diferentes colaboradores
+clonar: desde el repositorio/code/clone/copiar url
+luego ir a GitBash y poner git clone pegarurl
 */
 
 let modifico;
