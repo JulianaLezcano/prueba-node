@@ -33,4 +33,6 @@ luego ir a GitBash y poner git clone pegarurl
 let modifico;
 let otraModificacion;
 tercerModificacion
-cuartaModificacion
+cuartaModificacion;
+
+let practicando
