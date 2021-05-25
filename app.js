@@ -30,9 +30,8 @@ clonar: desde el repositorio/code/clone/copiar url
 luego ir a GitBash y poner git clone pegarurl
 */
 
-let modifico = 'Valor';
-let otraModificacion = 'Otra';
+let modifico = 'Valor', 
+otraModificacion = 'Otra',
 tercerModificacion
-cuartaModificacion;
-
-let practicando
+cuartaModificacion, 
+practicando = 'Intento'
